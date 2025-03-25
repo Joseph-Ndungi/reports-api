@@ -18,4 +18,4 @@
 
 #### Run the application
 
-    python -m flask run
+    python app.py
