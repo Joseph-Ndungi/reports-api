@@ -8,6 +8,11 @@ from reportlab.lib.utils import simpleSplit
 
 app = Flask(__name__)
 
+
+@app.route("/")
+def generateReport():
+    return "<p>Generating report</p>"
+
 # def flatten_data(data):
 #     """Flatten JSON and group by Student ID."""
 #     records = {}
