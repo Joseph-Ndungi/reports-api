@@ -2,7 +2,7 @@
 
 #### Windows
 
-     git clone https://github.com/Joseph-Ndungi/Uber-Analytics.git
+  git clone <https://github.com/Joseph-Ndungi/reports-api.git>
 
 #### Create virtual environment
 
